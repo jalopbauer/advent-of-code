@@ -1,4 +1,4 @@
-package com.indigo
+package com.indigo.juan.juan
 
 import kotlin.io.path.Path
 import kotlin.io.path.readLines
